@@ -1,2 +1,1 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=${firewolf-1})
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=${firewolf-1}&hide=ipynb,html&layout=compact)
+[![firewolf-1's github stats](https://github-readme-stats.vercel.app/api?username=firewolf-1)](https://github.com/firewolf-1/github-readme-stats)
